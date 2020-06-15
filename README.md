@@ -21,3 +21,5 @@ Windows 64-bit : https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one
 Mac OSX  : https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher.app.zip
 
 ### Model's Performance
+
+![Test Image 1](“download.png”)
