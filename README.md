@@ -31,4 +31,4 @@ Episode 244	Average Score: 30.01
 
 Environment solved in 244 episodes!	Average Score: 30.01
 
-[![Watch the video](https://www.google.com/search?q=reacher+environment&sxsrf=ALeKk00wOn95MQo2jbZddNYUOs5GuMjUKw:1592188773151&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiqrfSx5YLqAhUazDgGHSvnB6AQ_AUoAXoECA0QAw&biw=814&bih=711#imgrc=lfEZLchXbAMpiM)](https://www.youtube.com/watch?time_continue=1&v=i2gVvXgOMnc&feature=emb_logo)
+[![Watch the video]()](https://www.youtube.com/watch?time_continue=1&v=i2gVvXgOMnc&feature=emb_logo)
