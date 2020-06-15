@@ -30,3 +30,5 @@ Episode 200	Average Score: 23.62
 Episode 244	Average Score: 30.01
 
 Environment solved in 244 episodes!	Average Score: 30.01
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?time_continue=1&v=i2gVvXgOMnc&feature=emb_logo)
