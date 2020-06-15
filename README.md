@@ -31,4 +31,11 @@ Episode 244	Average Score: 30.01
 
 Environment solved in 244 episodes!	Average Score: 30.01
 
+#### Video
+
 [![Watch the video](reacher.jpg)](https://www.youtube.com/watch?time_continue=1&v=i2gVvXgOMnc&feature=emb_logo)
+
+# Navigation
+The repository includes the model file that describes the architecture , agent file that describes the behaviour of the agent and the jupyter - notebook that trains the agent.
+
+Also there are trained actor and critic weights files for direct inferencing. The local installation instuctions are mentioned above. 
