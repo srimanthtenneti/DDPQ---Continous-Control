@@ -38,4 +38,4 @@ Environment solved in 244 episodes!	Average Score: 30.01
 # Navigation
 The repository includes the model file that describes the architecture , agent file that describes the behaviour of the agent and the jupyter - notebook that trains the agent.
 
-Also there are trained actor and critic weights files for direct inferencing. The local installation instuctions are mentioned above. 
+Also there are trained actor and critic weights files for direct inferencing. The local installation instuctions are mentioned above. The Solving Reacher Environment using DDPG.docx file contains observations , hyperparameters used and all the other necessary details. 
