@@ -22,4 +22,9 @@ Mac OSX  : https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent
 
 ### Model's Performance
 
-![Test Image 1](“download.png”)
+<img
+src=“download.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
