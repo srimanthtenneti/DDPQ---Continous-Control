@@ -41,4 +41,4 @@ The repository includes the model file that describes the architecture , agent f
 Also there are trained actor and critic weights files for direct inferencing. The local installation instuctions are mentioned above. The Solving Reacher Environment using DDPG.docx file contains observations , hyperparameters used and all the other necessary details. 
 
 ### Running the Code
-To run the code open jupyter-notebook, go to the kernel option in the top menu and select restart and run all to run the code. The program works for both GPU and a CPU but runs much faster on a GPU.
+To run the code open the  CC_final.ipynb file in a jupyter-notebook, go to the kernel option in the top menu and select restart and run all to run the code. The program works for both GPU and a CPU but runs much faster on a GPU.
