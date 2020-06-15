@@ -39,3 +39,6 @@ Environment solved in 244 episodes!	Average Score: 30.01
 The repository includes the model file that describes the architecture , agent file that describes the behaviour of the agent and the jupyter - notebook that trains the agent.
 
 Also there are trained actor and critic weights files for direct inferencing. The local installation instuctions are mentioned above. The Solving Reacher Environment using DDPG.docx file contains observations , hyperparameters used and all the other necessary details. 
+
+### Running the Code
+To run the code open jupyter-notebook, go to the kernel option in the top menu and select restart and run all to run the code. The program works for both GPU and a CPU but runs much faster on a GPU.
