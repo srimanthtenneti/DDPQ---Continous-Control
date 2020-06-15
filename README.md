@@ -22,7 +22,6 @@ Mac OSX  : https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent
 
 ### Model's Performance
 ![Screenshot](download.png)
-
 Episode 100	Average Score: 3.55
 Episode 200	Average Score: 23.62
 Episode 244	Average Score: 30.01
